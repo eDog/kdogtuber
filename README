@@ -2,15 +2,14 @@ Hi and welcome to the KDogTuber repository :)
 
 KDogTuber is a simple application for downloading video from Youtube and getting some info about video and video's author..
 
-The master branch is divided in three folder: trunk, released and end-released.
+The master branch is divided in two folder: trunk and tags.
 
 The trunk folder is where the source code is the most instable of the entire repository. 
   Here there's the source code of KDogTuber currently in development.
 
-The released folder contains some releases of KDogTuber which are stable.
-  In this folder you may only fix some bugs and you may not implement some new function (you have to do this in trunk folder)
+The tags folder contains some releases of KDogTuber which are stable.
+  In this folder you may only fix some bugs and you may not implement some new features (you have to do this in trunk folder)
 
-The end-released folder contains all the old release of KDogTuber.
-  These released is unmaintened and you may not fix bugs anymore.
+Every co-developer may make branch of the master tree (for example, only the trunk folder), but only the admins may create new tag (Git feature)
 
 That's all folk. Bye and have fun!
